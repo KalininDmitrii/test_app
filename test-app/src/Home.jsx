@@ -38,21 +38,36 @@ function Home() {
 
 				<div className='row2'>
 					<div className='card'>
-						<img src='/svg/circle1_sec.svg' width='72px' height='72px' />
+						<img
+							src='/svg/circle1_sec.svg'
+							alt='r'
+							width='72px'
+							height='72px'
+						/>
 						<h3>Онлайн-прием</h3>
 						<div className='line'></div>
 						<p>Рыба текст</p>
 					</div>
 
 					<div className='card'>
-						<img src='/svg/circle2_sec.svg' width='72px' height='72px' />
+						<img
+							src='/svg/circle2_sec.svg'
+							alt='r'
+							width='72px'
+							height='72px'
+						/>
 						<h3>Экстренный случай</h3>
 						<div className='line'></div>
 						<p>Рыба текст</p>
 					</div>
 
 					<div className='card'>
-						<img src='/svg/circle3_sec.svg' width='72px' height='72px' />
+						<img
+							src='/svg/circle3_sec.svg'
+							alt='r'
+							width='72px'
+							height='72px'
+						/>
 						<h3>Лечение рака</h3>
 						<div className='line'></div>
 						<p>Рыба текст</p>
